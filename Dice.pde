@@ -53,12 +53,6 @@ class Die {
   }
 
 
-  //void roll()
-  //{
-  //  //your code here
-  //}
-
-
   void show() {
     noStroke();
     fill(255);
