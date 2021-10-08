@@ -33,7 +33,7 @@ void draw() {
   System.out.println(sum);
   textSize(25);
   fill(255);
-  text("Total: "+sum,252,500);
+  text("Total: "+sum,252.5,500);
 }
 
 
